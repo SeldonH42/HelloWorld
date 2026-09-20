@@ -1,6 +1,6 @@
 Hello World
 
-
+This is a text for testing branching in GitHub
 
 
 SeldonH wrote this
